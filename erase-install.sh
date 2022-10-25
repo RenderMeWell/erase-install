@@ -62,7 +62,7 @@ dialog_bin="/usr/local/bin/dialog"
 dialog_log="/var/tmp/dialog.log"
 dialog_output="/var/tmp/dialog.json"
 
-# siftDialog icons
+# swiftDialog icons
 # dialog_dl_icon="/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/SidebarDownloadsFolder.icns"
 dialog_dl_icon="SF=applelogo,colour=gray"
 # dialog_confirmation_icon="/System/Library/CoreServices/CoreTypes.bundle/Contents/Resources/AlertStopIcon.icns"
